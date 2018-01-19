@@ -3,7 +3,8 @@ program TestWeatherStation;
 uses
   Forms,
   main in 'main.pas' {Form1},
-  uWeatherData in 'uWeatherData.pas';
+  uWeatherData in 'uWeatherData.pas',
+  uIntf in 'uIntf.pas';
 
 {$R *.res}
 
