@@ -4,7 +4,8 @@ uses
   Forms,
   main in 'main.pas' {Form1},
   uWeatherData in 'uWeatherData.pas',
-  uIntf in 'uIntf.pas';
+  uIntf in 'uIntf.pas',
+  uDisplayElements in 'uDisplayElements.pas';
 
 {$R *.res}
 
